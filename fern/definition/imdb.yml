@@ -40,6 +40,8 @@ types:
   MovieId:
     type: string
     docs: The unique identifier for a Movie in the database
+  invalid:
+  invalid2:
 
   Movie:
     properties:
