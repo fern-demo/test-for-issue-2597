@@ -1,0 +1,8 @@
+instances:
+  - url: https://dannysheridan.docs.buildwithfern.com
+title: dannysheridan | Documentation
+navigation:
+  - api: API Reference
+colors:
+  accentPrimary: '#ffffff'
+  background: '#000000'
